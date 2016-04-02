@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:
-- Email:
-- Link:
+- Name: Bettina
+- Email: worldstrad@yahoo.com
+- Link: https://gist.github.com/bSchaden/c8e3e1305f33ae5ea69b285a33466419
