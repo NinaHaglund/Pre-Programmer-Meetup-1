@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:
-- Email:
-- Link:
+- Name: William Thomas  
+- Email: wikkisha@gmail.com 
+- Link: https://gist.github.com/wthomasdevelopment/8a700ed17cfac9b9fb9d78601e9c3275#file-williamthomas-md
