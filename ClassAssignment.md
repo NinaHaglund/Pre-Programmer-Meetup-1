@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:
-- Email:
-- Link:
+- Name: Gary Mouradian
+- Email: gary.c.mouradian@gmail.com
+- Link: [MyAssignment](https://gist.github.com/GaryMouradian/e314114eab88de159a34de3ab58f5d55)
