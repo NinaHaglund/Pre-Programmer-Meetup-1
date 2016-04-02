@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:
-- Email:
-- Link:
+- Name: Etienne Danis
+- Email: etiennedanis@gmail.com
+- Link: [https://gist.github.com/etiennedanis/22b6397c98deaa21c114ebdc2c051298]
