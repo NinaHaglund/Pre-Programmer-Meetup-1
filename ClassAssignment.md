@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:
-- Email:
-- Link:
+- Name: Maia Stone
+- Email: maiadov@gmail.com
+- Link: https://gist.github.com/maiastone/328bed859619b915abe46bd2f920a6ef
