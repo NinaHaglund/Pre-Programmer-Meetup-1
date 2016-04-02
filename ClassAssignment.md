@@ -14,6 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-- Name:  
-- Email: 
-- Link: 
+- Name: Nina
+- Email: NinaHaglund@me.com
+- Link: https://gist.github.com/NinaHaglund/8b442c6b454c49da7ee826d806426ec4.js
