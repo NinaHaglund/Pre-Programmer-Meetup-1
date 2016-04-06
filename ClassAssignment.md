@@ -33,3 +33,7 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 - Name: Etienne Danis
 - Email: etiennedanis@gmail.com
 - Link: https://gist.github.com/etiennedanis/22b6397c98deaa21c114ebdc2c051298
+
+- Name: Bettina
+- Email: worldstrad@yahoo.com
+- Link: https://gist.github.com/bSchaden/c8e3e1305f33ae5ea69b285a33466419
