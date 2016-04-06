@@ -41,3 +41,7 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 - Name: Gary Mouradian
 - Email: gary.c.mouradian@gmail.com
 - Link: [MyAssignment](https://gist.github.com/GaryMouradian/e314114eab88de159a34de3ab58f5d55)
+
+- Name: Alex Koch
+- Email: rednaxela22@outlook.com
+- Link: https://gist.github.com/rednaxela22/408de927fbbdeabec740564a44ac1945
