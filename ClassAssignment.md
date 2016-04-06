@@ -45,3 +45,7 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 - Name: Alex Koch
 - Email: rednaxela22@outlook.com
 - Link: https://gist.github.com/rednaxela22/408de927fbbdeabec740564a44ac1945
+
+- Name: Nina Haglund
+- Email: NinaHaglund@me.com
+- Link: https://gist.github.com/NinaHaglund/8b442c6b454c49da7ee826d806426ec4
