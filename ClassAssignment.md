@@ -14,7 +14,6 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 
 ####Please add your Gist links here in the following format:
 
-
 - Name:Heidi
 - Email: heidi.miller1225@gmail.com
 - Link:https://gist.github.com/helainem1/33c992ca6862f7ac9cb9bab8f7a5f48e
@@ -22,3 +21,7 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 - Name: Maia Stone
 - Email: maiadov@gmail.com
 - Link: https://gist.github.com/maiastone/328bed859619b915abe46bd2f920a6ef
+
+- Name: William Thomas  
+- Email: wikkisha@gmail.com
+- Link: https://gist.github.com/wthomasdevelopment/8a700ed17cfac9b9fb9d78601e9c3275#file-williamthomas-md
