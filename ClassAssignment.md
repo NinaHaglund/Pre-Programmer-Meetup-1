@@ -29,3 +29,7 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 - Name: Sabrina Robinson  
 - Email: sabrinarob@gmail.com
 - Link: https://gist.github.com/sabrinarob007/83f8e04b7e4e2fe6ed9ddfa97889e5e2
+
+- Name: Etienne Danis
+- Email: etiennedanis@gmail.com
+- Link: https://gist.github.com/etiennedanis/22b6397c98deaa21c114ebdc2c051298
