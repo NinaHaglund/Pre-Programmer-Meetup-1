@@ -37,3 +37,7 @@ For this assignment please answer the following questions in a [Public GitHub Gi
 - Name: Bettina
 - Email: worldstrad@yahoo.com
 - Link: https://gist.github.com/bSchaden/c8e3e1305f33ae5ea69b285a33466419
+
+- Name: Gary Mouradian
+- Email: gary.c.mouradian@gmail.com
+- Link: [MyAssignment](https://gist.github.com/GaryMouradian/e314114eab88de159a34de3ab58f5d55)
